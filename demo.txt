@@ -1,0 +1,24 @@
+git config --global user.name "manigandan-d"
+git config --global user.email "manigandan220916@gmail.com"
+
+git config --list 
+
+git clone repo
+
+changes
+
+git status
+
+git add .
+
+git commit -m "updated"
+
+git branch -M main
+
+generate the token 
+
+git remote set-url origin https://token@github.com/manigandan-d/repo.git
+
+git remote add origin https://github.com/manigandan-d/repo.git
+
+git push origin main
