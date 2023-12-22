@@ -1,2 +1,7 @@
-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
-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
+#include <stdio.h>
+
+int main() {
+	printf("Hello World\n");
+
+	return 0;
+}
