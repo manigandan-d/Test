@@ -17,8 +17,8 @@ git branch -M main
 
 generate the token 
 
-git remote set-url origin https://token@github.com/manigandan-d/repo.git
-
 git remote add origin https://github.com/manigandan-d/repo.git
+
+git remote set-url origin https://token@github.com/manigandan-d/repo.git
 
 git push origin main
