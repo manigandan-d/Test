@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	printf("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\n");
+	printf("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\n");
 
 	return 0;
 }
