@@ -15,7 +15,7 @@ git commit -m "updated"
 
 git branch -M main
 
-generate the token -> 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
+generate the token -> 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
 
 git remote add origin https://github.com/manigandan-d/repo.git
 
